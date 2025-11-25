@@ -78,18 +78,9 @@ All components, colors, fonts, and grids are named properly and follow a consist
 ## 🧩 Prototype
 
 👉 **View the Live Figma Prototype Here:**
-**[Insert your Figma prototype link here]**
+**[https://www.figma.com/design/2vX19FcY4dtET5XkI3ruv5/Mediminder?node-id=0-1&t=tkLrKPbBmUS1wX9E-1]**
 
-(Add your link inside the section above.)
 
----
-
-## 📁 What’s Included
-
-* `.fig` file (local copy of the design)
-* Exported UI screens (PNG/JPG/PDF)
-* Design system documentation
-* Component preview images
 
 ---
 
