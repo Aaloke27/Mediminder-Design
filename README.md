@@ -98,6 +98,6 @@ This repository is created to:
 ## 🙌 Credits
 
 Designed with ❤️ by **Aaloke Das**
-Android Developer | UI/UX Designer | BloomWare Team
+Android Developer | UI/UX Designer 
 
 
